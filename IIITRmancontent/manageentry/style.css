@@ -1,0 +1,137 @@
+.login{
+    background-image:url("https://img.collegepravesh.com/2021/11/IIIT-Raichur-Transit-Campus.jpg");
+    background-size:contain;
+    height: 100vh;
+    width:206vh;
+}
+.login-box{
+    background-color:white;
+    border-style:solid;
+    margin-left:6px;
+    /* width:50%;
+    height:50%; */
+    text-align: center;
+    /* padding: 5%; */
+    border-radius: 25px; 
+    border-width:2px; 
+
+}
+.login-box2{
+    background-color:white;
+    border-style:solid;
+    /* width:50%;
+    height:50%; */
+    text-align: center;
+    /* padding: 5%; */
+    border-radius: 25px; 
+    border-width:2px; 
+
+}
+/* .button{
+    background-color: red;
+    color:aliceblue;
+    width:100px;
+    font-weight: bold;
+    border:0px;
+    border-radius: 5px;
+    padding: 50px;
+} */
+.search-form{
+    margin-left:100px;
+    width:350px;
+    text-align: center;
+}
+.search-img{
+    height:20px;
+    width:20px;
+}
+.search-button{
+    height:30px;
+    width:30px;
+}
+.login-logo{
+    height:50px;
+    width:50px;
+    margin-left:50px;
+
+}
+.bg-container{
+    /* background-image: url(images/backhostel.jpg); */
+    /* background-color: black; */
+    background-image:linear-gradient(red,blue,yellow,orange);
+    /* opacity: 70%; */
+    filter: blur(0.2px);
+    background-size: cover;
+    height:80vh;
+}
+p{
+    margin-left:10px;
+    font-weight:bolder;
+    margin-top: 25px;
+}
+.side-bar{
+    background-color:grey;
+}
+.button2{
+    background-color:black;
+    color:white;
+    margin-bottom:57.5px;
+    margin-left: 30px;
+    width:250px;
+    height:70px;
+    border-radius: 25px;
+}
+
+.visitor-card{
+    background-color:white;
+    margin-top:50px;
+    width:300px;
+    height:200px;
+    border-radius:60px;
+    padding:10px;
+    margin-right:200px;
+}
+.card1{
+margin-left:100px;
+}
+.count{
+    font-size:50px;
+    margin-top:30px;
+
+}
+/* #34eded */
+.copyright-section{
+    background-color:white;
+    color:black;
+}
+#logout{
+    background-color:black;
+    color:white;
+    width:40px;
+    height:20px;
+    border-radius: 4px;
+
+}
+.signup{
+    background-image: url(images/backhostel.jpg);
+    background-size:cover;
+    height:100vh;
+}
+.signup-box{
+    background-color:white;
+    border-style:solid;
+    width:50%;
+    height:50%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px; 
+    border-width:2px; 
+
+}
+.search-entries{
+    margin-left:80px;
+    background-color:red;
+    border-width:0px;
+    width:200px;
+    height:30px;
+}

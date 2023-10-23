@@ -1,0 +1,29 @@
+.button3{
+    background-color:black;
+    color:white;
+    margin-bottom:32px;
+    margin-left: 30px;
+    width:250px;
+    height:70px;
+    border-radius: 25px;
+}
+.button4{
+    background-color:black;
+    color:white;
+    margin-bottom:32px;
+    margin-left: 30px;
+    width:250px;
+    height:70px;
+    border-radius: 25px;
+}
+.statbox{
+    background-color:black;
+    /* background-image:linear-gradient(red,blue,yellow,orange); */
+    /* opacity: 70%; */
+    filter: blur(0.2px);
+    background-size: cover;
+    height:80vh;
+}
+.left-bar{
+    background-color:white;
+}

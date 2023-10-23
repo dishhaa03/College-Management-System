@@ -1,0 +1,180 @@
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.login{
+    background-image:url("https://img.collegepravesh.com/2021/11/IIIT-Raichur-Transit-Campus.jpg");
+    /* background-color: red; */
+    background-size:cover;
+    height: 100vh;
+    width:100vw;
+}
+.login-box{
+    background-color:white;
+    border-style:solid;
+    margin-left:6px;
+    /* width:50%;
+    height:50%; */
+    text-align: center;
+    /* padding: 5%; */
+    border-radius: 25px; 
+    border-width:2px; 
+
+}
+.login-box2{
+    background-color:white;
+    border-style:solid;
+    /* width:50%;
+    height:50%; */
+    text-align: center;
+    /* padding: 5%; */
+    border-radius: 25px; 
+    border-width:2px; 
+
+}
+/* .button{
+    background-color: red;
+    color:aliceblue;
+    width:100px;
+    font-weight: bold;
+    border:0px;
+    border-radius: 5px;
+    padding: 50px;
+} */
+.search-form{
+    margin-left:100px;
+    width:350px;
+    text-align: center;
+}
+.search-img{
+    height:20px;
+    width:20px;
+}
+.search-button{
+    height:30px;
+    width:40px;
+}
+.login-logo{
+    height:20%;
+    width:20%;
+    /* margin-left:50px; */
+
+}
+.bg-container{
+    /* background-image: url(images/backhostel.jpg); */
+    background-color: white;
+    /* background-image:linear-gradient(red,blue,yellow,orange); */
+    /* opacity: 70%; */
+    filter: blur(0.2px);
+    background-size: cover;
+    height:80vh;
+    width:100vw;
+}
+p{
+    margin-left:10px;
+    font-weight:bolder;
+    margin-top: 25px;
+}
+.side-bar{
+    background-color:grey;
+}
+.button2{
+    background-color:black;
+    color:white;
+    margin-bottom:50px;
+    /* margin-left: 30px; */
+    width:250px;
+    height:70px;
+    border-radius: 25px;
+}
+.button{
+    
+    margin-left: 30px;
+    /* border-radius: 25px; */
+}
+
+.visitor-card{
+    background-color:white;
+    margin-top:50px;
+    width:90%;
+    height:200px;
+    border-radius:60px;
+    /* padding:10px; */
+    /* margin-left:50px;
+    margin-right:0px; */
+}
+/* .card1{
+margin-left:80px;
+} */
+.count{
+    font-size:50px;
+    margin-top:30px;
+
+}
+/* #34eded */
+.copyright-section{
+    background-color:white;
+    color:black;
+}
+/* #logout:hover{
+    height:50px;
+    background-color:white;
+}
+#logout{
+background-color:black;
+    color:white;
+    width:40px;
+    height:20px;
+    border-radius: 4px;
+    transition: all 1s ease-in; */
+
+    
+.signup{
+    background-image: url(images/backhostel.jpg);
+    background-size:cover;
+    height:100vh;
+}
+.signup-box{
+    background-color:white;
+    border-style:solid;
+    width:50%;
+    height:50%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px; 
+    border-width:2px; 
+
+}
+.search-entries {
+    margin-left: 80px;
+    background-color:cyan;
+    border-width: 0px;
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    border-color: blue;
+}
+
+.entry-buttons-left {
+    background-color: red;
+    height: 80px;
+    width: 160px;
+    border-radius:20px;
+    border-width: 0px;
+    margin-bottom:50px;
+    margin-right:50px;
+}
+.entry-buttons-right {
+    background-color: red;
+    height: 80px;
+    width: 160px;
+    border-radius:20px;
+    border-width: 0px;
+    margin-bottom:50px;
+    margin-left:100px;
+}
+
+.bg-search {
+    background-color:black;
+}
